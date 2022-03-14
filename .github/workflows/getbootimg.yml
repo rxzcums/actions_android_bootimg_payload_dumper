@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.10.22/miui_ALIOTH_21.10.22_cd2c7b7de3_12.0.zip
+  ROM_URL: https://bigota.d.miui.com/22.3.12/miui_ALIOTHPRE_22.3.12_1fff7ae20d_12.0.zip
   TZ: Asia/Shanghai
 
 jobs:
